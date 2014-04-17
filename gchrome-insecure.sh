@@ -13,3 +13,5 @@ function main {
   kill
   start_chrome_insecure
 }
+
+main
